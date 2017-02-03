@@ -1,0 +1,151 @@
+/* <link rel="stylesheet" type="text/css" href="style.css">
+*/
+
+body {
+    background: white;
+	margin: 0px;
+}
+
+header {
+text-align: center;
+}
+
+header a {
+margin-left: 0px;
+}
+
+#topnav{
+	text-align: center;
+    list-style-type: none;
+    margin: 0px;
+	padding: 0px;
+    overflow: hidden;
+    background-color: SteelBlue;
+	width:100%;
+	margin:auto;
+}
+
+#topnav li {
+    display: inline;
+	font-family: Arial;
+}
+
+#topnav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#topnav li a:hover {
+    background-color: #006699;
+}
+
+.linkedin {
+	text-align: right;
+}
+
+.media {
+	width: 100%;
+	height: 100%;
+}
+
+.video {
+	width: 100%;
+	height: 400px;
+}
+
+.panel-default a {
+	text-decoration: none;
+}
+.panel-title {
+	text-decoration: none;
+}
+
+.panel-heading {
+	background-color: #f2f2f2;
+	text-decoration: none;
+	color: black;
+}
+
+.panel-heading:hover {
+	background-color: SteelBlue;
+	text-decoration: none;
+	color: white;
+}
+
+.pohja1{
+	background-color:SteelBlue;
+	color:white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	width:100%;
+	margin:auto;
+}
+
+.pohja2{
+	background-color:#f2f2f2;
+	color:white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	width:100%;
+	margin:auto;
+}
+
+.aloitus a{
+	text-decoration: none;
+	color: white;
+	font-size: 35px;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+h1 {
+	color: white;
+	font-size: 30px;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+p {
+	color: black;
+	font-family: Arial;
+}
+
+.alaotsikko {
+	color: black;
+	font-family: Arial;
+	font-size: 26px;
+}
+
+/* BOOTSTRAP */
+
+.row {
+	
+	color: white;
+}
+
+.col-sm-4 {
+	text-align: center;
+}
+.col-sm-6 {
+	text-align: center;
+}
+.col-sm-8 {
+	text-align: center;
+}
+
+
+
+.container {
+	
+}
+
+@media only screen and (max-width: 800px) {
+	
+}
